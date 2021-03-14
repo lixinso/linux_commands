@@ -1,10 +1,10 @@
 # Common Used Linux Commands
 
-- Split zip file
+- split zip file
 
 zip MyArchive.zip --out SplitArchive.zip -s 100m
 
-
+- curl
 
 $ curl -LI http://www.example.org -o /dev/null -w '%{http_code}\n' -s
 
