@@ -2,6 +2,7 @@
 
 - split zip file
 
+zip MyArchive.zip inputfolder/
 zip MyArchive.zip --out SplitArchive.zip -s 100m
 
 - curl
